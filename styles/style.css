@@ -110,6 +110,9 @@ section.section-container1 h2, section.section-container2 h2, section.section-co
     padding-left: 20px;
     letter-spacing: 1px;
 }
+section.section-container1 h2{
+    max-width: 300px;
+}
 section.section-container1 p, section.section-container2 p, section.section-container3 p, section.section-container4 p{
     font-family: var(--font3);
     font-size: 15px;
